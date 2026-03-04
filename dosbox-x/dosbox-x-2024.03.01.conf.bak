@@ -1,0 +1,28 @@
+[sdl]
+output            = ttf
+showbasic         = false
+showmenu          = false
+
+[dosbox]
+startbanner               = false
+working directory option  = default
+working directory default = /home/feline/Work/Collage/sem_4/micro/assembly_env
+
+
+
+[ttf]
+font         = /usr/share/fonts/truetype/jetbrains-mono-zorin-os/JetBrainsMono-Regular
+fontbold     = /usr/share/fonts/truetype/jetbrains-mono-zorin-os/JetBrainsMono-Bold
+fontital     = /usr/share/fonts/truetype/jetbrains-mono-zorin-os/JetBrainsMono-Italic
+fontboit     = /usr/share/fonts/truetype/jetbrains-mono-zorin-os/JetBrainsMono-BoldItalic
+colors       = + #222b30 #0082be #28d64e #95e0da #ff7789 #e482d4 #fa9c71 #bde6fb #afafaf #d19fff #55db82 #92fcf6 #ff7979 #f0a2ff #fff894 #ffffff
+ptsize       = 20
+lins         = 27
+cols         = 100
+
+
+
+[autoexec]
+# Lines in this section will be run at startup.
+# You can put your MOUNT lines here.
+
