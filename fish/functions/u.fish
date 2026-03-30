@@ -1,3 +1,3 @@
-function u --wraps='sudo apt update' --wraps='sudo nala update' --description 'alias u=sudo nala update'
-    sudo nala update $argv
+function u --wraps='yay -Syu' --description 'alias u=yay -Syu'
+    yay -Syu $argv
 end

@@ -1,3 +1,3 @@
-function i --wraps='sudo nala install' --description 'alias i=sudo nala install'
-    sudo nala install $argv
+function i --wraps='yay -S' --description 'alias i=yay -S'
+    yay -S $argv
 end

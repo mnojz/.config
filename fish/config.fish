@@ -1,6 +1,6 @@
 # this will disable greeting message
 function fish_greeting
-figlet welcome !
+fastfetch
 end
 
 starship init fish | source
@@ -11,3 +11,5 @@ set PATH $PATH /home/feline/.local/bin
 zoxide init fish | source
 
 set -x QT_QPA_PLATFORMTHEME qt5ct
+
+
