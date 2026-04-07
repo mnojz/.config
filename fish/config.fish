@@ -12,4 +12,7 @@ zoxide init fish | source
 
 set -x QT_QPA_PLATFORMTHEME qt5ct
 
+set -x PATH /opt/cuda/bin $PATH
+set -x LD_LIBRARY_PATH /opt/cuda/lib64 $LD_LIBRARY_PATH
 
+thefuck --alias | source
