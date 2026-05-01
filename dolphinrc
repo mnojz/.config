@@ -1,0 +1,25 @@
+MenuBar=Disabled
+
+[General]
+RememberOpenedTabs=false
+Version=202
+ViewPropsTimestamp=2026,4,24,13,9,57.431
+
+[IconsMode]
+PreviewSize=224
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[PreviewSettings]
+Plugins=ffmpegthumbnailer,appimagethumbnail,audiothumbnail,glycin-heif,evince,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,FreeCAD,imagethumbnail,glycin-image-rs,jpegthumbnail,glycin-jxl,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,gsf-office,mltpreview,opendocumentthumbnail,glycin-svg,svgthumbnail,gnome-font-viewer
+
+[Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
