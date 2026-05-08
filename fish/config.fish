@@ -8,7 +8,7 @@ starship init fish | source
 # Created by `pipx` on 2026-02-07 05:45:33
 set PATH $PATH /home/feline/.local/bin
 
-zoxide init fish | source
+zoxide init --cmd cd fish | source
 
 set -x QT_QPA_PLATFORMTHEME qt5ct
 
